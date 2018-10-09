@@ -1,0 +1,5 @@
+﻿-Das Projekt soll an einem regnerischen Tag in New York stattfinden.
+Deshalb ist der Raum eher dunkel gehalten.
+
+-Die Bilderrahmen wurden sowohl als Bildmaterial verwendet als auch als Texturen, befinden 
+sich aber im Ordner Bildmaterial.
